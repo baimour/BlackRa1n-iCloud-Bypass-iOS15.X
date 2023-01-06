@@ -12,7 +12,7 @@ BlackRa1n是适用于iOS 15.X的系留iCloud绕过工具（仅限checkm8设备�
 2. 在Mac上打开BlackRa1n文件夹和终端
 3. 在终端中输入以下命令：
 ```
-cd DRAG AND DROP BLACKRA1N FOLDER HERE
+cd 将BlackRa1n文件夹拖放到这里回车
 ```
 4. 在终端中输入以下命令：
 ```
