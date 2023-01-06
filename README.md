@@ -1,35 +1,33 @@
 # BlackRa1n-iCloud-Bypass-iOS15.X
-BlackRa1n is a Tethered iCloud Bypass Tool for iOS 15.X (checkm8 devices only)
+BlackRa1n是适用于iOS 15.X的系留iCloud绕过工具（仅限checkm8设备）
 
 ![alt text](https://github.com/bartektenDev/BlackRa1n-iCloud-Bypass-iOS15.X/blob/main/Screen%20Shot%202022-12-13%20at%202.25.12%20AM.png)
 
-It's really late and I have school tomorrow. I wanted to push this out as soon as I could so here it is for iOS 15.X. Not iOS 16 just yet...
+真的很晚了，我明天要上学。我想尽快推出这一功能，所以这是针对iOS 15.X的，而不是iOS 16...
 
-Install tkinter, python3, sshpass, and whatever dependencies come with Sliver from appletech752.com
+安装 tkinter, python3, sshpass, 以及 Sliver 官网 appletech752.com附带的任何依赖
 
-Instructions:
-1. Connect iDevice
-2. Open BlackRa1n folder and terminal on mac. 
-3. In terminal enter the following command:
+说明：
+1. 连接设备
+2. 在Mac上打开BlackRa1n文件夹和终端
+3. 在终端中输入以下命令：
 ```
 cd DRAG AND DROP BLACKRA1N FOLDER HERE
 ```
-4. In terminal enter the following command:
+4. 在终端中输入以下命令：
 ```
 python3 blackra1n.py
 ```
-5. Pair iDevice in normal mode
-6. Jailbreak iOS 15.X 
-(Watch the terminal for information if anything fails or what happens. Follow DFU steps that will pop up.)
-7. After your device is jailbroken and boots iOS you can continue to next step.
-8. Put device into DFU mode.
+5. 在正常模式连接设备
+6. 越狱 iOS 15.X (观察终端以获取任何故障或发生什么情况的信息，按照将弹出的DFU步骤进行操作)
+7. 在您的设备越狱并引导iOS后，您可以继续下一步
+8. 将设备进入DFU模式
 8. Build Custom IPSW
-9. Boot Custom IPSW (You did this step right if you see SSHRD, verbose mode, text on the screen)
-10. Finally, Start BlackRa1n.
-11. Device will reboot and you're done! 
+9. Boot Custom IPSW (如果您在屏幕上看到SSHRD、详细模式和带代码，说明您已经正确执行此步骤)
+10. 最后，Start BlackRa1n
+11. 设备将重新启动，您就完成了！
 
-If you get to recovery mode, just run Jailbreak step again and thats it device will boot bypassing iCloud Lock Activation.
+如果您进入恢复模式，只需再次运行越狱步骤，设备将绕过iCloud锁激活启动
 
 
-I will update this asap. I have finals this week.
-@ios_euphoria <3
+我会尽快更新，本周我有期末考试 @ios_euphoria <3
